@@ -1,0 +1,6 @@
+@article{zhang2021prototypical,
+title={Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation},
+author={Zhang, Pan and Zhang, Bo and Zhang, Ting and Chen, Dong and Wang, Yong and Wen, Fang},
+journal={arXiv preprint arXiv:2101.10979},
+year={2021}
+}

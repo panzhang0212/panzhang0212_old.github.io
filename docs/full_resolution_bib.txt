@@ -1,0 +1,6 @@
+@article{zhou2020full,
+title={Full-Resolution Correspondence Learning for Image Translation},
+author={Zhou, Xingran and Zhang, Bo and Zhang, Ting and Zhang, Pan and Bao, Jianmin and Chen, Dong and Zhang, Zhongfei and Wen, Fang},
+journal={arXiv preprint arXiv:2012.02047},
+year={2020}
+}

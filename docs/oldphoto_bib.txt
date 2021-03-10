@@ -1,0 +1,6 @@
+@inproceedings{wan2020bringing,
+title={Bringing old photos back to life},
+author={Wan, Ziyu and Zhang, Bo and Chen, Dongdong and Zhang, Pan and Chen, Dong and Liao, Jing and Wen, Fang},
+booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pages={2747--2757},
+year={2020}
+}

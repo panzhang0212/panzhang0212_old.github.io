@@ -1,6 +1,0 @@
-@article{wan2020bringing,
-  title={Bringing Old Photos Back to Life},
-  author={Wan, Ziyu and Zhang, Bo and Chen, Dongdong and Zhang, Pan and Chen, Dong and Liao, Jing and Wen, Fang},
-  journal={arXiv preprint arXiv:2004.09484},
-  year={2020}
-}
